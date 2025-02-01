@@ -1,5 +1,5 @@
 # Trajectory-Tracking-of-3D-Quadrotor-using-PID-and-LQR-Controller
-Overview
+Overview:
 This project implements and compares PID and LQR controllers for trajectory tracking of a 3D quadrotor. The controllers are evaluated on their ability to follow circular and diamond-shaped helix trajectories.
 Project Scope: The study focuses on analyzing the effectiveness of these control techniques in three key areas:
 
